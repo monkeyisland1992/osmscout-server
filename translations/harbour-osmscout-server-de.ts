@@ -243,7 +243,7 @@
     <message>
         <location filename="../src/geomaster.cpp" line="44"/>
         <source>Opened geocoder database</source>
-        <translation>Geocodierer-Datenbank geöffnet</translation>
+        <translation>Geocoder-Datenbank geöffnet</translation>
     </message>
     <message>
         <location filename="../src/geomaster.cpp" line="57"/>
@@ -276,7 +276,7 @@
     <message>
         <location filename="../qml/pages/GeocoderPage.qml" line="22"/>
         <source>Geocoder</source>
-        <translation>Geocodierer</translation>
+        <translation>Geocoder</translation>
     </message>
     <message>
         <location filename="../qml/pages/GeocoderPage.qml" line="38"/>
@@ -369,7 +369,7 @@
     <message>
         <location filename="../src/infohub.cpp" line="101"/>
         <source>ERROR: </source>
-        <translation>ERROR: </translation>
+        <translation>FEHLER: </translation>
     </message>
     <message>
         <location filename="../src/infohub.cpp" line="107"/>
@@ -801,32 +801,32 @@
     <message>
         <location filename="../qml/pages/SpeedPage.qml" line="87"/>
         <source>motorway link</source>
-        <translation>Autobahnverbindung</translation>
+        <translation>Autobahnanschlußstelle</translation>
     </message>
     <message>
         <location filename="../qml/pages/SpeedPage.qml" line="95"/>
         <source>motorway primary</source>
-        <translation>Autobahn primär</translation>
+        <translation>Bundesstraße</translation>
     </message>
     <message>
         <location filename="../qml/pages/SpeedPage.qml" line="103"/>
         <source>motorway trunk</source>
-        <translation>Stammautobahn</translation>
+        <translation>Autostraße</translation>
     </message>
     <message>
         <location filename="../qml/pages/SpeedPage.qml" line="111"/>
         <source>primary</source>
-        <translation type="unfinished"></translation>
+        <translation>Bundesstraße></translation>
     </message>
     <message>
         <location filename="../qml/pages/SpeedPage.qml" line="119"/>
         <source>primary link</source>
-        <translation>Hauptstraße</translation>
+        <translation>Anschlußstelle</translation>
     </message>
     <message>
         <location filename="../qml/pages/SpeedPage.qml" line="127"/>
         <source>residential</source>
-        <translation>Wohngegend</translation>
+        <translation>Straße in Wohngegenden</translation>
     </message>
     <message>
         <location filename="../qml/pages/SpeedPage.qml" line="135"/>
@@ -841,17 +841,17 @@
     <message>
         <location filename="../qml/pages/SpeedPage.qml" line="151"/>
         <source>secondary</source>
-        <translation>Landstraße</translation>
+        <translation>Landesstraße</translation>
     </message>
     <message>
         <location filename="../qml/pages/SpeedPage.qml" line="159"/>
         <source>secondary link</source>
-        <translation>Link zu lokalen Straße</translation>
+        <translation>Auffahrt zur Landesstraße</translation>
     </message>
     <message>
         <location filename="../qml/pages/SpeedPage.qml" line="167"/>
         <source>service</source>
-        <translation>Pfad</translation>
+        <translation>Service Weg</translation>
     </message>
     <message>
         <location filename="../qml/pages/SpeedPage.qml" line="175"/>
@@ -861,7 +861,7 @@
     <message>
         <location filename="../qml/pages/SpeedPage.qml" line="183"/>
         <source>tertiary link</source>
-        <translation>lokale Straßenverbindung</translation>
+        <translation>Auffahrt zur Ortstraße</translation>
     </message>
     <message>
         <location filename="../qml/pages/SpeedPage.qml" line="191"/>
@@ -871,7 +871,7 @@
     <message>
         <location filename="../qml/pages/SpeedPage.qml" line="199"/>
         <source>trunk link</source>
-        <translation>Bundenstraßenverbindung</translation>
+        <translation>Auffahrt zur Bundenstraße</translation>
     </message>
     <message>
         <location filename="../qml/pages/SpeedPage.qml" line="207"/>
